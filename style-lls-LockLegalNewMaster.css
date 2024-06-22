@@ -151,7 +151,9 @@ body {
   position:relative;
   padding-top:10px;
   padding-bottom:10px;
-  width: 63%;
+  /* width: 63%; */
+  width: 80%;
+  max-width: 800px;
   margin: auto;
 }
 
