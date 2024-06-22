@@ -155,6 +155,10 @@ body {
   margin: auto;
 }
 
+.maintextbody2 {
+  margin-bottom: 0px;
+}
+
 .copyfooter {
   text-align: center;
   padding-bottom:50px;

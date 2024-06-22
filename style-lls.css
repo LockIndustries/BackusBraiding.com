@@ -146,6 +146,10 @@ body {
   margin: auto;
 }
 
+.maintextbody2 {
+  margin-bottom: 0px;
+}
+
 .maintextbody-home {
   display:block;
   position:relative;
