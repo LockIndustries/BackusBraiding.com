@@ -61,12 +61,11 @@ body {
   color: #8c5c47;
 }
 
-.topnav a.split {
+/* .topnav a.split {
   float: right;
   background-color: #34455c;
   color: #e3e3a7;
 } */
-
 
 .dropdown {
   clear:left;
