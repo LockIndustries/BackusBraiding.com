@@ -233,6 +233,12 @@ img {
   margin: auto;
 }
 
+.about-img {
+  width: 63%;
+  max-width: 800px;
+  margin: auto;
+}
+
 /* .landscape {
   height: 70%;
   width: 70%;
